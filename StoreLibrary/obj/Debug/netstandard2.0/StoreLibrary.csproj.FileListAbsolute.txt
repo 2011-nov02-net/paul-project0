@@ -1,0 +1,9 @@
+C:\Users\corte\source\repos\StoreLibrary\bin\Debug\netstandard2.0\StoreLibrary.deps.json
+C:\Users\corte\source\repos\StoreLibrary\bin\Debug\netstandard2.0\StoreLibrary.dll
+C:\Users\corte\source\repos\StoreLibrary\bin\Debug\netstandard2.0\StoreLibrary.pdb
+C:\Users\corte\source\repos\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.csprojAssemblyReference.cache
+C:\Users\corte\source\repos\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.AssemblyInfoInputs.cache
+C:\Users\corte\source\repos\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.AssemblyInfo.cs
+C:\Users\corte\source\repos\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\corte\source\repos\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.dll
+C:\Users\corte\source\repos\StoreLibrary\obj\Debug\netstandard2.0\StoreLibrary.pdb

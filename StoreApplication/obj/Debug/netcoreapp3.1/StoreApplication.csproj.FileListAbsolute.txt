@@ -1,0 +1,16 @@
+C:\Users\corte\source\repos\StoreApplication\bin\Debug\netcoreapp3.1\StoreApplication.exe
+C:\Users\corte\source\repos\StoreApplication\bin\Debug\netcoreapp3.1\StoreApplication.deps.json
+C:\Users\corte\source\repos\StoreApplication\bin\Debug\netcoreapp3.1\StoreApplication.runtimeconfig.json
+C:\Users\corte\source\repos\StoreApplication\bin\Debug\netcoreapp3.1\StoreApplication.runtimeconfig.dev.json
+C:\Users\corte\source\repos\StoreApplication\bin\Debug\netcoreapp3.1\StoreApplication.dll
+C:\Users\corte\source\repos\StoreApplication\bin\Debug\netcoreapp3.1\StoreApplication.pdb
+C:\Users\corte\source\repos\StoreApplication\bin\Debug\netcoreapp3.1\StoreLibrary.dll
+C:\Users\corte\source\repos\StoreApplication\bin\Debug\netcoreapp3.1\StoreLibrary.pdb
+C:\Users\corte\source\repos\StoreApplication\obj\Debug\netcoreapp3.1\StoreApplication.csprojAssemblyReference.cache
+C:\Users\corte\source\repos\StoreApplication\obj\Debug\netcoreapp3.1\StoreApplication.AssemblyInfoInputs.cache
+C:\Users\corte\source\repos\StoreApplication\obj\Debug\netcoreapp3.1\StoreApplication.AssemblyInfo.cs
+C:\Users\corte\source\repos\StoreApplication\obj\Debug\netcoreapp3.1\StoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\corte\source\repos\StoreApplication\obj\Debug\netcoreapp3.1\StoreApplication.csproj.CopyComplete
+C:\Users\corte\source\repos\StoreApplication\obj\Debug\netcoreapp3.1\StoreApplication.dll
+C:\Users\corte\source\repos\StoreApplication\obj\Debug\netcoreapp3.1\StoreApplication.pdb
+C:\Users\corte\source\repos\StoreApplication\obj\Debug\netcoreapp3.1\StoreApplication.genruntimeconfig.cache
